@@ -17,10 +17,6 @@ Second route displays the list of cars according to their year.
 
 Third route shows the list of cars when selected according to their ID
 
-http://127.0.0.1:5000/getcars/
-
-http://localhost:5000/getcars
-
 GET request 1: Go to http://localhost:5000/getcars/  to list all records.                               
 
 GET request 2: Go to http://localhost:5000/getcars/2015 to select a specific year 2015 for example         
